@@ -50,7 +50,7 @@ export default function Navbar() {
                 <a>Homepage</a>
               </li>
               <li>
-                <a>Contact us</a>
+                <a>Contact</a>
               </li>
               <li>
                 <a>About</a>
