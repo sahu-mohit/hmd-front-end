@@ -53,7 +53,7 @@ export default function Navbar() {
                 <a>Contact us</a>
               </li>
               <li>
-                <a>About</a>
+                <a>About mohit sahu</a>
               </li>
             </ul>
           </div>
