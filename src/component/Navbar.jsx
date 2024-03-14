@@ -50,7 +50,7 @@ export default function Navbar() {
                 <a>Home</a>
               </li>
               <li>
-                <a>Contact us</a>
+                <a>Contact</a>
               </li>
               <li>
                 <a>About us</a>
@@ -59,7 +59,7 @@ export default function Navbar() {
           </div>
         </div>
         <div className="navbar-center">
-          <a className="btn btn-ghost text-xl underline">sahu</a>
+          <a className="btn btn-ghost text-xl underline">H M D</a>
         </div>
         <div className="flex-none gap-2 navbar-end">
           <label className="swap swap-rotate">
