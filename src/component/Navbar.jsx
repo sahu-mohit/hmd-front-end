@@ -47,23 +47,23 @@ export default function Navbar() {
               className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
-                <a>Homepage</a>
+                <a>Home</a>
               </li>
               <li>
                 <a>Contact</a>
               </li>
               <li>
-                <a>About MAIN BRANCH</a>
+                <a>About us</a>
               </li>
             </ul>
           </div>
         </div>
         <div className="navbar-center">
-          <a className="btn btn-ghost text-xl underline">mOHIT sAHU</a>
+          <a className="btn btn-ghost text-xl underline">H M D</a>
         </div>
         <div className="flex-none gap-2 navbar-end">
           <label className="swap swap-rotate">
-            {/* this hidden checkbox controls the state */}
+            {/* this hidden checkbox controls the state*/}
             <input
               type="checkbox"
               onChange={changeTheme}
