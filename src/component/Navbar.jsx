@@ -63,7 +63,7 @@ export default function Navbar() {
         </div>
         <div className="flex-none gap-2 navbar-end">
           <label className="swap swap-rotate">
-            {/* this hidden checkbox controls the state */}
+            {/* this hidden checkbox controls the state*/}
             <input
               type="checkbox"
               onChange={changeTheme}
