@@ -59,7 +59,7 @@ export default function Navbar() {
           </div>
         </div>
         <div className="navbar-center">
-          <a className="btn btn-ghost text-xl underline">ANMOL Rastogi</a>
+          <a className="btn btn-ghost text-xl underline">ANMOL </a>
         </div>
         <div className="flex-none gap-2 navbar-end">
           <label className="swap swap-rotate">
